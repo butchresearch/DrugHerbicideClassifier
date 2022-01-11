@@ -5,4 +5,6 @@ This repository contains the necessary files to run the classifiers described in
 
 For readers who are interested in the predictions, but do not wish to run them locally, an online version of this workbook is available at www.streamlet.com/drugherbicideclassifier.
 
+Installation instructions are included in requirements.txt.
 
+An example calculation is provided in the included the Jupyter notebook.
