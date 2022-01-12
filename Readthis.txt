@@ -1,0 +1,10 @@
+###### Requirements from conda-forge######
+# This file may be used to create a compliant environment using:
+# $ conda create --name dhclassifier --file requirements.txt --channel conda-forge
+python==3.7
+scikit-learn==0.24.1
+xgboost==1.3.3
+rdkit-pypi
+tqdm
+pyjanitor
+joblib
